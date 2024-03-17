@@ -2,78 +2,30 @@
 
 ## Software Development - Python
 
-### class 01
-#### title : Intro to Python
-#### summary
-#### [notes](#)
+| Class    |                 Topic                   |   Link      |
+|----------|-----------------------------------------|-------------|
+| 01       | Intro to Python                         | [Link](#)   |
+| 02       | Modules and Testing                     | [Link](#)   |
+| 03       | File IO & Exceptions                    | [Link](#)   |
+| 04       | Object Oriented Programming             | [Link](#)   |
+| 05       | Linked Lists, Big O, Resume Workshop    | [Link](#)   |
+| 06       | Guided Project 1                        | [Link](#)   |
+| 07       | Guided Project 2                        | [Link](#)   |
+| 08       | Guided Project 3                        | [Link](#)   |
+| 09       | Guided Project 4                        | [Link](#)   |
+| 10       | Stacks, Queues, Personal Pitch Workshop | [Link](#)   |
+| 11       | Intro to Data Science                   | [Link](#)   |
+| 12       | Data Analysis                           | [Link](#)   |
+| 13       | Linear Regressions                      | [Link](#)   |
+| 14       | Data Visualization                      | [Link](#)   |
+| 15       | Trees, Job Search Workshop              | [Link](#)   |
 
 
-### class 02
-#### title : Modules and Testing
-#### summary
-#### [notes](#)
 
-### class 03
-#### title : File IO & Exceptions
-#### summary
-#### [notes](#)
 
-### class 04
-#### title : Object Oriented Programming
-#### summary
-#### [notes](#)
 
-### class 05
-#### title : Linked Lists, Big O, Resume Workshop
-#### summary
-#### [notes](#)
 
-### class 06
-#### title : Guided Project 1
-#### summary
-#### [notes](#)
 
-### class 07
-#### title : Guided Project 2
-#### summary
-#### [notes](#)[]
 
-### class 08
-#### title : Guided Project 3
-#### summary
-#### [notes](#)
 
-### class 09
-#### title : Guided Project 4
-#### summary
-#### [notes](#)
 
-### class 10
-#### title : Stacks, Queues, Personal Pitch Workshop
-#### summary
-#### [notes](#)
-
-### class 11
-#### title : Intro to Data Science
-#### summary
-#### [notes](#)
-
-### class 12
-#### title : Data Analysis 
-#### summary
-#### [notes](#)
-
-### class 13
-#### title : Linear Regressions
-#### summary
-#### [notes](#)
-
-### class 14
-#### title : Data Visualization
-#### summary
-#### [notes](#)
-
-### class 15
-#### title : Trees, Job Search Workshop
-#### summary
-#### [notes](#)
