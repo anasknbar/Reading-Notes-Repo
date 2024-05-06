@@ -4,7 +4,8 @@
 
 | Class    |                 Topic                   |   Link      |
 |----------|-----------------------------------------|-------------|
-| 01       | Intro to Python                         | [Link](#)   |
+| 00       | Introduction to SQL (prep assignment)   | [SQL Intro](SQL-Intro.md)        |
+| 01       | Intro to Python                         | [Link](01-class.md)   |
 | 02       | Modules and Testing                     | [Link](#)   |
 | 03       | File IO & Exceptions                    | [Link](#)   |
 | 04       | Object Oriented Programming             | [Link](#)   |
