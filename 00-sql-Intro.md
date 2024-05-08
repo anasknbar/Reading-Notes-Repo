@@ -3,7 +3,7 @@
 is a database type that use rows and columns to organize date forming tables.
 these data tables can be joined together via primary keys moreover these primary keys ensure data integrity 
 
-summarizing your understanding of  and SQL. Include all of your screen shots in this page.
+
 
 ## SQL :
   SQL is a language used to interact with relational databases.
