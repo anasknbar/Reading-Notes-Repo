@@ -1,0 +1,8 @@
+- [Update your resume](#)
+- [LinkedIn](https://www.linkedin.com/in/anas-knbar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [GitHub](https://github.com/anasknbar)
+- [Social Media](#)
+- [Behavioral questions](https://docs.google.com/document/d/1-Mnw3fSIgKAXnYnVO9o7rkcskLZ2aUCgEkCz-sdzxD4/edit)
+- [Networking event opportunities](#)
+- [Target companies](https://docs.google.com/spreadsheets/d/1PGylOhiYIuDMLcGr6iUdMNSVwCwczWovbr1HqSRXBGA/edit#gid=0)
+- [Professional Pitch](#)
