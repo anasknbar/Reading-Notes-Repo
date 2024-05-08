@@ -8,6 +8,7 @@
 | 00       | Career-Coaching-Status-Report (prep assignment)   | [Link](00-career-coaching-status-report.md)|
 | 00       | Professional Etiquette (prep assignment)   | [Link](00-professional-etiquette.md)|
 | 00       | Practice in the Terminal (prep assignment)| [Link](00-terminal-practice.md)|
+|          |                                         |             |
 | 01       | Intro to Python                         | [Link](01-class.md)|
 | 02       | Modules and Testing                     | [Link](02-class.md)|
 | 03       | File IO & Exceptions                    | [Link](03-class.md)|
