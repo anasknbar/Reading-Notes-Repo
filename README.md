@@ -5,6 +5,7 @@
 | Class    |                 Topic                   |   Link      |
 |----------|-----------------------------------------|-------------|
 | 00       | Introduction to SQL (prep assignment)   | [Link](00-sql-Intro.md)|
+| 00       | Professional Etiquette (prep assignment)   | [Link](00-professional-etiquette.md)|
 | 00       | Practice in the Terminal (prep assignment)| [Link](00-terminal-practice.md)|
 | 01       | Intro to Python                         | [Link](01-class.md)|
 | 02       | Modules and Testing                     | [Link](02-class.md)|
