@@ -5,7 +5,7 @@
 | Class    |                 Topic                   |   Link      |
 |----------|-----------------------------------------|-------------|
 | 00       | Introduction to SQL (prep assignment)   | [Link](00-sql-Intro.md)|
-| 00       | Career-Coaching-Status-Report (prep assignment)   | [Link](career-coaching-status-report.md)|
+| 00       | Career-Coaching-Status-Report (prep assignment)   | [Link](00-career-coaching-status-report.md)|
 | 00       | Professional Etiquette (prep assignment)   | [Link](00-professional-etiquette.md)|
 | 00       | Practice in the Terminal (prep assignment)| [Link](00-terminal-practice.md)|
 | 01       | Intro to Python                         | [Link](01-class.md)|
