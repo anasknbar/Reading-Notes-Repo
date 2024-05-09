@@ -61,17 +61,17 @@ what do we mean by upper bound??
 lower bound and constants are **neglected** 
 
 ### Rates of Growth:
-| Notation    |                 Type                   |   Example      |  Description |
-|-------------|----------------------------------------|----------------|--------------|
-| O(1) |  Constant | Hash table access | Remain constant regardless of the size of the data set |
-| O(logn) | Logarithmic | Binary search of a sorted table ?!| increase by a constant if n double, the to perform increase by a constant smaller than n amount  |  
-| O(<n) | sublinear | search using parallel processing  | perform at less than linear and more than Logarithmeic level |
-| O(n) | Linear | finding an item in an unsorted list| increase in proportion to n, if n double the time to performe double |
-| O(nlog(n)) |nlog(n) | Quicksort, merge sort | increase at multipe of  a cnostant |
-| O(n^2)    | Quadratic | Bubble sort  | increase in proportion to the product of n*n  |
-| O(C^n )  | Eexponential   | Travelling salesman proplem solved using dynamic programming | increase based on the exponent n of a constant c|
-| O(n!)       |    factorial | Traveling salesman proplem solved using Brute Force | increase in the proportion to the product of all numbers included (e.g, 1*2*3*4)|
-|    |                        |    |
+| Notation    | Type         | Example                            | Description                                                  |
+|-------------|--------------|------------------------------------|--------------------------------------------------------------|
+| O(1)        | Constant     | Hash table access                  | Remain constant regardless of the size of the data set      |
+| O(logn)     | Logarithmic  | Binary search of a sorted table    | Increase by a constant if n doubles, then time to perform increases by a constant smaller than n amount |
+| O(<n)       | Sublinear    | Search using parallel processing   | Performs at less than linear and more than logarithmic level |
+| O(n)        | Linear       | Finding an item in an unsorted list| Increases in proportion to n, if n doubles, the time to perform doubles |
+| O(nlog(n))  | nlog(n)      | Quicksort, merge sort              | Increases at multiple of a constant                          |
+| O(n^2)      | Quadratic    | Bubble sort                        | Increases in proportion to the product of n * n              |
+| O(C^n)      | Exponential  | Travelling salesman problem solved using dynamic programming| Increases based on the exponent n of a constant c |
+| O(n!)       | Factorial    | Travelling salesman problem solved using Brute Force | Increases in proportion to the product of all numbers included (e.g., 1 * 2 * 3 * 4) |
+
 
 
 ![order of growth](Big-O-pic/1%20w4qanwIVl9Ec8A4LDgY_3Q.jpg)
