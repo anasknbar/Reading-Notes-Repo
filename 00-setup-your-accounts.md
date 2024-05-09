@@ -12,5 +12,5 @@ Setup your Accounts
 ![OpenAI-screenshout](OpenAI.png)
 
 - canvas:
-I cannot make canvas account unless the ASAC provide me with the 'JOIN CODE' as it shown in the below screenshout:
+#### I cannot make canvas account unless the ASAC provide me with the 'JOIN CODE' as it shown in the below screenshout:
 ![OpenAI-screenshout](Canvas.png)
