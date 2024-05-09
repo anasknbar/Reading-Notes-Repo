@@ -1,7 +1,7 @@
 ### Readings: Whitboarding + Big O
 
 **Algorithm:**
- an algorithm is a step-by-step procedure or set of rules for solving a problem or accomplishing a task. it's like a recipe that tells you exactly what to do in order to achieve a specific outcome. Algorithm are used in various fields, including math, computer science, and everyday life.
+ an algorithm is a step-by-step procedure or set of rules for solving a problem or accomplishing a task. it's like a recipe that tells you exactly what to do in order to achieve a specific outcome. Algorithm are used in various fields, including **math**, **computer science**, and **everyday life**.
 Ex: An algorithm to add two numbers:
 
 1- Take two number inputs  
@@ -9,11 +9,12 @@ Ex: An algorithm to add two numbers:
 2- Add numbers using the + operator 
 
 3- Display the result 
-##
+
+# ______________________________________________________________________
 in programming we do not care only about writing Algorithm and test whether this Algorithm give us the desire output or how easy to implement.!!
 So what other factors that we might consider when it comes to writing an Algorithm ??
 
-### Efficient
+## Efficient
 #### Time Complexity
 - is a measure of how the runtime of an algorithm increases with the **size of the input**.
 #### Space Complexity
@@ -36,7 +37,8 @@ No, it's not ideal for Asymptotic Analysis for the following reasons:
 The frequency count method is a technique used in **asymptotic analysis** to determine the time complexity of an algorithm based on the count of basic operations executed as a function of the input size. It involves counting the number of times certain operations are performed within the algorithm and expressing this count as a function of the input size.
 Asymptotic Analysis (Notations) is an example of Frequency count method
 
-## 
+# ______________________________________________________________________
+
 
 ## Asymptotic Analysis:
 is a method to describe how good the performance of algorithm is, and basically it include the :
@@ -61,12 +63,12 @@ lower bound and constants are **neglected**
 ### Rates of Growth:
 | Notation    |                 Type                   |   Example      |  Description       |
 |----------|-----------------------------------------|-------------|-------------|
-| O(1)       |  Constant                             | Hash table access | Remain constant regardless of the size of the data set|
-| O(logn)       |   Logarithmic                   | Binary search of a sorted table ?!| increase by a constant if n double, the to perform increase by a constant smaller than n amount  | | 
-| O(<n)      |    sublinear                 | search using parallel processing  | perform at less than linear and more than Logarithmeic level |
-| O(n)      |   Linear            | finding an item in an unsorted list| increase in proportion to n, if n double the time to performe double |
-| O(nlog(n)) |nlog(n)     | Quicksort, merge sort | increase at multipe of  a cnostant |
-| O(n^2)    | Quadratic   | Bubble sort  | increase in proportion to the product of n*n 
+| O(1) |  Constant | Hash table access | Remain constant regardless of the size of the data set|
+| O(logn) | Logarithmic | Binary search of a sorted table ?!| increase by a constant if n double, the to perform increase by a constant smaller than n amount  |  
+| O(<n) | sublinear | search using parallel processing  | perform at less than linear and more than Logarithmeic level |
+| O(n) | Linear | finding an item in an unsorted list| increase in proportion to n, if n double the time to performe double |
+| O(nlog(n)) |nlog(n) | Quicksort, merge sort | increase at multipe of  a cnostant |
+| O(n^2)    | Quadratic | Bubble sort  | increase in proportion to the product of n*n  |
 | O(C^n )  | Eexponential   | Travelling salesman proplem solved using dynamic programming | increase based on the exponent n of a constant c|
 | O(n!)       |    factorial | Traveling salesman proplem solved using Brute Force | increase in the proportion to the product of all numbers included (e.g, 1*2*3*4)|
 |    |                        |    |
@@ -92,7 +94,8 @@ looking at the function algorithm you can see that the instructions excution doe
 
 time complexity is Constant, O(1)
 
-##
+# ______________________________________________________________________
+
 write a function to tell if a numbers in a list is even or odd and figure out the time complexity.
 
     def is_even(arr):
@@ -106,7 +109,8 @@ the time complexity is affected by the input size. because the an arr input with
 
 time complexity is Linear, O(3n) >> 3 comes from the instructions inside the for loop and we said that we care only about the upper bound >> O(n)
 
-##
+# ______________________________________________________________________
+
 
     for i in range(x):
       for j in range(y):
@@ -114,7 +118,8 @@ time complexity is Linear, O(3n) >> 3 comes from the instructions inside the for
 
 the time complexity for a loop inside another loop is increase in proportion to the product of n*n >>  Quadratic O(n^2)
 
-##
+# ______________________________________________________________________
+
 general rule for coputing the time complexity:
 - consider the worst case (Big O)
 - Remove constants
@@ -132,8 +137,9 @@ is it possible to be 2n ?? No it's not 2n because the arr_1 and arr_2 not are th
 
 what is the time complexity for a loop inside a loop with different input ??
 
-##
-##
+# ______________________________________________________________________
+
+
 
 # whitebording
 ![whiteboard-example](Big-O-pic/whiteboard-example.png)
