@@ -61,9 +61,9 @@ what do we mean by upper bound??
 lower bound and constants are **neglected** 
 
 ### Rates of Growth:
-| Notation    |                 Type                   |   Example      |  Description       |
-|----------|-----------------------------------------|-------------|-------------|
-| O(1) |  Constant | Hash table access | Remain constant regardless of the size of the data set|
+| Notation    |                 Type                   |   Example      |  Description |
+|-------------|----------------------------------------|----------------|--------------|
+| O(1) |  Constant | Hash table access | Remain constant regardless of the size of the data set |
 | O(logn) | Logarithmic | Binary search of a sorted table ?!| increase by a constant if n double, the to perform increase by a constant smaller than n amount  |  
 | O(<n) | sublinear | search using parallel processing  | perform at less than linear and more than Logarithmeic level |
 | O(n) | Linear | finding an item in an unsorted list| increase in proportion to n, if n double the time to performe double |
