@@ -15,19 +15,24 @@
 |          |                                         |             |
 | 01       | Intro to Python                         | [Link](01-class.md)|
 | 02       | Modules and Testing                     | [Link](02-class.md)|
-| 03       | File IO & Exceptions                    | [Link](03-class.md)|
-| 04       | Object Oriented Programming             | [Link](04-class.md)|
-| 05       | Linked Lists, Big O, Resume Workshop    | [Link](05-class.md)|
-| 06       | Guided Project 1                        | [Link](#)   |
-| 07       | Guided Project 2                        | [Link](#)   |
-| 08       | Guided Project 3                        | [Link](#)   |
-| 09       | Guided Project 4                        | [Link](#)   |
-| 10       | Stacks, Queues, Personal Pitch Workshop | [Link](#)   |
-| 11       | Intro to Data Science                   | [Link](#)   |
-| 12       | Data Analysis                           | [Link](#)   |
-| 13       | Linear Regressions                      | [Link](#)   |
-| 14       | Data Visualization                      | [Link](#)   |
-| 15       | Trees, Job Search Workshop              | [Link](#)   |
+| 03       | Big O & whitebording                    | [Link](03-class.md)|
+| 04       | File IO & Exceptions                    | [Link](04-class.md)|
+| 05       | Linked Lists                            | [Link](05-class.md)|
+
+
+
+
+<!-- | 06       | Object Oriented Programming             | [Link](06-class.md)|
+| 07       | Guided Project 1                        | [Link](#)   |
+| 08       | Guided Project 2                        | [Link](#)   |
+| 09       | Guided Project 3                        | [Link](#)   |
+| 10       | Guided Project 4                        | [Link](#)   |
+| 11       | Stacks, Queues, Personal Pitch Workshop | [Link](#)   |
+| 12       | Intro to Data Science                   | [Link](#)   |
+| 13       | Data Analysis                           | [Link](#)   |
+| 14       | Linear Regressions                      | [Link](#)   |
+| 15       | Data Visualization                      | [Link](#)   |
+| 16       | Trees, Job Search Workshop              | [Link](#)   | -->
 
 
 
