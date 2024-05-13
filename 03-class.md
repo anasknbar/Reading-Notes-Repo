@@ -61,6 +61,19 @@ The keyword **with** allows you to automate the closing of a file.
         file.write(f"{name}\n")
 
 
+# Exception
+
+
+In Python, try and exception are used for exception handling. This is a mechanism that allows you to handle runtime errors (also known as exceptions) and take appropriate action instead of letting the program terminate abruptly.
+
+    try:
+      # Code that might raise an exception
+    except ExceptionType:
+      # Code to handle the exception
+
+The **try** block contains the code that might raise an exception. Python will attempt to execute this code.
+If an exception is raised in the try block, the flow of control is immediately passed to the except block. The **ExceptionType** is the type of exception you expect to handle. If the exception raised matches ExceptionType, the code within that except block is executed.
+If no exception is raised in the try block, the except block is skipped.
 
 
 
