@@ -18,11 +18,12 @@
 | 03       | Big O & whitebording                    | [Link](03-class.md)|
 | 04       | File IO & Exceptions                    | [Link](04-class.md)|
 | 05       | Linked Lists                            | [Link](05-class.md)|
+| 06       | Object Oriented Programming             | [Link](06-class.md)|
 
 
 
 
-<!-- | 06       | Object Oriented Programming             | [Link](06-class.md)|
+<!-- 
 | 07       | Guided Project 1                        | [Link](#)   |
 | 08       | Guided Project 2                        | [Link](#)   |
 | 09       | Guided Project 3                        | [Link](#)   |
