@@ -19,6 +19,7 @@
 | 04       | File IO & Exceptions                    | [Link](04-class.md)|
 | 05       | Linked Lists                            | [Link](05-class.md)|
 | 06       | Object Oriented Programming             | [Link](06-class.md)|
+| 06       | Design Patterns-Strategy Pattern        | [Link](07-class.md)|
 
 
 
