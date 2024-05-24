@@ -20,6 +20,7 @@
 | 05       | Linked Lists                            | [Link](05-class.md)|
 | 06       | Object Oriented Programming             | [Link](06-class.md)|
 | 06       | Design Patterns-Strategy Pattern        | [Link](07-class.md)|
+| 07       | Intro To Data Science                   | [Link](08-class.md)|
 
 
 
