@@ -26,7 +26,7 @@ Using Enums makes your code:
  - helps prevent mistakes by limiting the values a variable can take.
 
 
- # The SOLID principles 
+ # The SOLID principles   
  The SOLID principles, introduced by Robert C. Martin (Uncle Bob), are a set of design guidelines aimed at making software designs more understandable, flexible, and maintainable. Here’s a brief explanation of each principle with Python examples:
 
 1. single Responsibility Principle (SRP)
