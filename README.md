@@ -19,8 +19,10 @@
 | 04       | File IO & Exceptions                    | [Link](04-class.md)|
 | 05       | Linked Lists                            | [Link](05-class.md)|
 | 06       | Object Oriented Programming             | [Link](06-class.md)|
-| 06       | Design Patterns-Strategy Pattern        | [Link](07-class.md)|
-| 07       | Intro To Data Science                   | [Link](08-class.md)|
+| 07       | Design Patterns-Strategy Pattern        | [Link](07-class.md)|
+| 08       | Intro To Data Science                   | [Link](08-class.md)|
+| 09       | Linear Regressions                      | [Link](09-class.md)|
+
 
 
 
@@ -33,7 +35,6 @@
 | 11       | Stacks, Queues, Personal Pitch Workshop | [Link](#)   |
 | 12       | Intro to Data Science                   | [Link](#)   |
 | 13       | Data Analysis                           | [Link](#)   |
-| 14       | Linear Regressions                      | [Link](#)   |
 | 15       | Data Visualization                      | [Link](#)   |
 | 16       | Trees, Job Search Workshop              | [Link](#)   | -->
 
