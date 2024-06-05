@@ -22,6 +22,7 @@
 | 07       | Design Patterns-Strategy Pattern        | [Link](07-class.md)|
 | 08       | Intro To Data Science                   | [Link](08-class.md)|
 | 09       | Linear Regressions                      | [Link](09-class.md)|
+| 10       | GUI                                     | [Link](10-class.md)|
 
 
 
