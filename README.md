@@ -23,6 +23,7 @@
 | 08       | Intro To Data Science                   | [Link](08-class.md)|
 | 09       | Linear Regressions                      | [Link](09-class.md)|
 | 10       | GUI                                     | [Link](10-class.md)|
+| 11       | Serverless Functions                    | [Link](11-class.md)|
 
 
 
