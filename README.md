@@ -25,6 +25,7 @@
 | 10       | GUI                                     | [Link](10-class.md)|
 | 11       | Serverless Functions                    | [Link](11-class.md)|
 | 12       | Web Scraping                            | [Link](12-class.md)|
+| 13       | Cryptography                            | [Link](13-class.md)|
 
 
 
