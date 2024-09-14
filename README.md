@@ -27,6 +27,7 @@
 | 12       | Web Scraping                            | [Link](12-class.md)|
 | 13       | Cryptography                            | [Link](13-class.md)|
 | 14       | Django Models                           | [Link](14-class.md)|
+| 14       | Final Project                           | [Link](15-class.md)|
 
 
 
