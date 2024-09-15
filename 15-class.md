@@ -37,7 +37,7 @@ Solutions :
 ## 6- Record a video for your project (using a screen recorder) that shows all the functionalities of your project. Upload the video using OneDrive and submit the link here.
 
 - [Youtube video](https://www.youtube.com/watch?v=FjRg2jKGWqE&t=6s)
-- [OneDrive](https://alqudscollege-my.sharepoint.com/personal/23041355_student_ltuc_com/_layouts/15/stream.aspx?id=%2Fpersonal%2F23041355%5Fstudent%5Fltuc%5Fcom%2FDocuments%2FFinal%20Project%2Ffinal%5Fproject%5Frec%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E4d746e15%2Dd29f%2D4296%2Dbe97%2Dafddc260105b)
+- [OneDrive](https://alqudscollege-my.sharepoint.com/:v:/g/personal/23041355_student_ltuc_com/EZsMx53z8xpOnLLRxoahXVYBw2notwgc_ti6guE5ea6UGA?e=VNOByI)
 
  
 
